@@ -1,0 +1,23 @@
+body {
+    //background-color: #363434;
+    background-image: url('https://images.pexels.com/photos/60217/pexels-photo-60217.jpeg?cs=srgb&dl=pexels-recalmedia-60217.jpg&fm=jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Faz a imagem ficar fixa ao rolar a página */
+}
+
+.titulo {
+    color: aliceblue;
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    TEXT
+}
+
+iframe {
+    pointer-events: none; /* Nenhuma interação é permitida */
+    overflow: hidden;
+    color: rgb(13, 219, 151);
+    background-color: #F8F8FF;
+    border-radius: 24px;
+}
